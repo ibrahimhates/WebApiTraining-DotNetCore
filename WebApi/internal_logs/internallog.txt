@@ -1,0 +1,734 @@
+2023-03-28 17:24:54.9698 Info Message Template Auto Format enabled
+2023-03-28 17:24:55.1176 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-28 17:24:55.1499 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-28 17:29:55.5585 Info Message Template Auto Format enabled
+2023-03-28 17:29:55.6681 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-28 17:29:55.7242 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-28 17:38:24.8626 Info Message Template Auto Format enabled
+2023-03-28 17:38:24.9721 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-28 17:38:25.0022 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-28 22:29:37.4171 Info Message Template Auto Format enabled
+2023-03-28 22:29:37.5216 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-28 22:29:37.5493 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-28 22:31:48.8487 Info Message Template Auto Format enabled
+2023-03-28 22:31:48.9752 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-28 22:31:49.0515 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-28 22:33:17.7328 Info Message Template Auto Format enabled
+2023-03-28 22:33:17.8244 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-28 22:33:17.8546 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-28 22:33:37.9626 Info Message Template Auto Format enabled
+2023-03-28 22:33:38.0087 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-28 22:33:38.0264 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-28 22:43:02.7382 Info Message Template Auto Format enabled
+2023-03-28 22:43:02.7814 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-28 22:43:02.7980 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-28 23:04:41.8170 Info Message Template Auto Format enabled
+2023-03-28 23:04:41.8612 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-28 23:04:41.8778 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 16:01:46.9274 Info Message Template Auto Format enabled
+2023-03-30 16:01:46.9886 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 16:01:47.0079 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 16:07:26.1146 Info Message Template Auto Format enabled
+2023-03-30 16:07:26.1724 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 16:07:26.1942 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 16:08:40.9603 Info Message Template Auto Format enabled
+2023-03-30 16:08:41.0039 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 16:08:41.0231 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 16:12:06.8639 Info Message Template Auto Format enabled
+2023-03-30 16:12:06.9249 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 16:12:06.9478 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 16:24:25.0778 Info Message Template Auto Format enabled
+2023-03-30 16:24:25.1294 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 16:24:25.1471 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 16:26:12.2961 Info Message Template Auto Format enabled
+2023-03-30 16:26:12.3359 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 16:26:12.3519 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 16:28:13.0186 Info AppDomain Shutting down. LogFactory closing...
+2023-03-30 16:28:13.0293 Info LogFactory has been closed.
+2023-03-30 16:28:15.2958 Info Message Template Auto Format enabled
+2023-03-30 16:28:15.3478 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 16:28:15.3661 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 16:29:06.5777 Info Message Template Auto Format enabled
+2023-03-30 16:29:06.6689 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 16:29:06.6898 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 16:31:02.1648 Info Message Template Auto Format enabled
+2023-03-30 16:31:02.3445 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 16:31:02.4099 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 16:40:48.6875 Info Message Template Auto Format enabled
+2023-03-30 16:40:48.7277 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 16:40:48.7434 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 16:53:15.7529 Info Message Template Auto Format enabled
+2023-03-30 16:53:15.7905 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 16:53:15.7905 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 16:58:40.6296 Info Message Template Auto Format enabled
+2023-03-30 16:58:40.6687 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 16:58:40.6847 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 17:02:18.8515 Info AppDomain Shutting down. LogFactory closing...
+2023-03-30 17:02:18.8515 Info LogFactory has been closed.
+2023-03-30 17:06:09.8226 Info Message Template Auto Format enabled
+2023-03-30 17:06:09.8670 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 17:06:09.8670 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 17:13:10.5698 Info Message Template Auto Format enabled
+2023-03-30 17:13:10.6075 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 17:13:10.6224 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 17:14:35.2253 Info Message Template Auto Format enabled
+2023-03-30 17:14:35.2626 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 17:14:35.2626 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 17:16:30.0871 Info Message Template Auto Format enabled
+2023-03-30 17:16:30.1262 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 17:16:30.1429 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 17:17:46.0450 Info AppDomain Shutting down. LogFactory closing...
+2023-03-30 17:17:46.0450 Info LogFactory has been closed.
+2023-03-30 17:23:17.7605 Info Message Template Auto Format enabled
+2023-03-30 17:23:17.8070 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 17:23:17.8254 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 17:25:15.4713 Info AppDomain Shutting down. LogFactory closing...
+2023-03-30 17:25:15.4816 Info LogFactory has been closed.
+2023-03-30 18:34:20.0103 Info Message Template Auto Format enabled
+2023-03-30 18:34:20.0519 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 18:34:20.0764 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 18:36:13.0392 Info Message Template Auto Format enabled
+2023-03-30 18:36:13.0822 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 18:36:13.1032 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 18:45:11.7293 Info Message Template Auto Format enabled
+2023-03-30 18:45:11.7701 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 18:45:11.7873 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 18:46:53.8765 Info Message Template Auto Format enabled
+2023-03-30 18:46:53.9160 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 18:46:53.9324 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 18:47:33.0907 Info Message Template Auto Format enabled
+2023-03-30 18:47:33.1402 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 18:47:33.1629 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 18:48:43.4804 Info AppDomain Shutting down. LogFactory closing...
+2023-03-30 18:48:43.4804 Info LogFactory has been closed.
+2023-03-30 21:07:28.7533 Info Message Template Auto Format enabled
+2023-03-30 21:07:28.8027 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 21:07:28.8214 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 21:11:33.6117 Info Message Template Auto Format enabled
+2023-03-30 21:11:33.6558 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 21:11:33.6738 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 21:15:15.9035 Info Message Template Auto Format enabled
+2023-03-30 21:15:15.9438 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 21:15:15.9613 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 21:15:35.2901 Info Message Template Auto Format enabled
+2023-03-30 21:15:35.3399 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 21:15:35.3592 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 21:16:13.3295 Info Message Template Auto Format enabled
+2023-03-30 21:16:13.3713 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 21:16:13.3713 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 21:23:37.9561 Info Message Template Auto Format enabled
+2023-03-30 21:23:37.9949 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 21:23:38.0131 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 21:31:07.2634 Info Message Template Auto Format enabled
+2023-03-30 21:31:07.3169 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 21:31:07.3371 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 21:32:14.9035 Info AppDomain Shutting down. LogFactory closing...
+2023-03-30 21:32:14.9035 Info LogFactory has been closed.
+2023-03-30 21:33:35.2458 Info Message Template Auto Format enabled
+2023-03-30 21:33:35.2932 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 21:33:35.3107 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 21:35:25.7234 Info Message Template Auto Format enabled
+2023-03-30 21:35:25.7659 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 21:35:25.7821 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 21:35:53.2281 Info AppDomain Shutting down. LogFactory closing...
+2023-03-30 21:35:53.2281 Info LogFactory has been closed.
+2023-03-30 21:37:54.6484 Info Message Template Auto Format enabled
+2023-03-30 21:37:54.6936 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 21:37:54.7127 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 21:39:02.9464 Info Message Template Auto Format enabled
+2023-03-30 21:39:02.9910 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 21:39:03.0066 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 21:48:35.9139 Info Message Template Auto Format enabled
+2023-03-30 21:48:35.9681 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 21:48:35.9907 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 21:51:54.5717 Info Message Template Auto Format enabled
+2023-03-30 21:51:54.6115 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 21:51:54.6296 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 22:23:02.3349 Info Message Template Auto Format enabled
+2023-03-30 22:23:02.3772 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 22:23:02.3953 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 22:26:07.0700 Info Message Template Auto Format enabled
+2023-03-30 22:26:07.1093 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 22:26:07.1263 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 22:27:41.7006 Info AppDomain Shutting down. LogFactory closing...
+2023-03-30 22:27:41.7006 Info LogFactory has been closed.
+2023-03-30 23:51:24.4939 Info Message Template Auto Format enabled
+2023-03-30 23:51:24.5391 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 23:51:24.5584 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 23:53:03.6952 Info Message Template Auto Format enabled
+2023-03-30 23:53:03.7418 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 23:53:03.7418 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 23:55:10.5469 Info Message Template Auto Format enabled
+2023-03-30 23:55:10.5870 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 23:55:10.6052 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-30 23:56:29.8036 Info Message Template Auto Format enabled
+2023-03-30 23:56:29.8431 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-30 23:56:29.8600 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-31 17:56:13.5050 Info Message Template Auto Format enabled
+2023-03-31 17:56:13.5988 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-31 17:56:13.6242 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-03-31 18:22:19.2857 Info Message Template Auto Format enabled
+2023-03-31 18:22:19.3353 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-31 18:22:19.3567 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-02 17:30:55.5794 Info Message Template Auto Format enabled
+2023-04-02 17:30:55.6407 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-02 17:30:55.6578 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-02 18:22:15.6350 Info Message Template Auto Format enabled
+2023-04-02 18:22:15.6860 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-02 18:22:15.7042 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-02 18:34:23.8569 Info AppDomain Shutting down. LogFactory closing...
+2023-04-02 18:34:23.8569 Info LogFactory has been closed.
+2023-04-02 18:34:35.9408 Info Message Template Auto Format enabled
+2023-04-02 18:34:35.9881 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-02 18:34:36.0070 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-02 18:45:06.4420 Info Message Template Auto Format enabled
+2023-04-02 18:45:06.4807 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-02 18:45:06.4964 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-02 18:50:13.1579 Info Message Template Auto Format enabled
+2023-04-02 18:50:13.1992 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-02 18:50:13.2151 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-02 18:56:30.1824 Info Message Template Auto Format enabled
+2023-04-02 18:56:30.2273 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-02 18:56:30.2453 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-02 18:56:55.9762 Info AppDomain Shutting down. LogFactory closing...
+2023-04-02 18:56:55.9963 Info LogFactory has been closed.
+2023-04-03 16:25:20.0457 Info Message Template Auto Format enabled
+2023-04-03 16:25:20.1057 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-03 16:25:20.1228 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-12 00:49:19.4090 Info Message Template Auto Format enabled
+2023-04-12 00:49:19.5037 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 00:49:19.5371 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-12 00:56:09.1317 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 00:56:09.1443 Info LogFactory has been closed.
+2023-04-12 01:03:01.9636 Info Message Template Auto Format enabled
+2023-04-12 01:03:02.0247 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:03:02.0451 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-12 01:19:05.6936 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 01:19:05.6936 Info LogFactory has been closed.
+2023-04-12 01:26:49.8866 Info Message Template Auto Format enabled
+2023-04-12 01:26:49.9599 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:26:49.9855 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-12 01:30:20.4868 Info Message Template Auto Format enabled
+2023-04-12 01:30:20.5483 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:30:20.5698 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-12 01:30:54.8716 Info Message Template Auto Format enabled
+2023-04-12 01:30:54.9156 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:30:54.9439 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-12 02:06:17.0720 Info Message Template Auto Format enabled
+2023-04-12 02:06:17.1225 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:06:17.1403 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-12 02:09:29.8066 Info Message Template Auto Format enabled
+2023-04-12 02:09:29.8609 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:09:29.8930 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-12 02:31:14.2556 Info Message Template Auto Format enabled
+2023-04-12 02:31:14.3506 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:31:14.3847 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-12 02:32:26.8548 Info Message Template Auto Format enabled
+2023-04-12 02:32:26.9287 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:32:26.9553 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-12 02:34:37.6947 Info Message Template Auto Format enabled
+2023-04-12 02:34:37.7639 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:34:37.7988 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-12 02:38:59.1387 Info Message Template Auto Format enabled
+2023-04-12 02:38:59.2276 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:38:59.2620 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-12 02:39:39.6726 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 02:39:39.6923 Info LogFactory has been closed.
+2023-04-12 02:42:38.9113 Info Message Template Auto Format enabled
+2023-04-12 02:42:38.9774 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:42:39.0125 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-04-12 03:07:54.4796 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 03:07:54.4998 Info LogFactory has been closed.
+2023-05-04 12:08:06.3502 Info Message Template Auto Format enabled
+2023-05-04 12:08:06.4144 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:08:06.4309 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-04 12:09:05.0853 Info Message Template Auto Format enabled
+2023-05-04 12:09:05.1312 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:09:05.1469 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-04 12:15:55.4016 Info Message Template Auto Format enabled
+2023-05-04 12:15:55.4421 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:15:55.4574 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-04 12:21:48.9566 Info Message Template Auto Format enabled
+2023-05-04 12:21:48.9989 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:21:49.0162 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-04 12:24:05.6341 Info Message Template Auto Format enabled
+2023-05-04 12:24:05.6824 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:24:05.7014 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-04 12:34:24.5325 Info AppDomain Shutting down. LogFactory closing...
+2023-05-04 12:34:24.5441 Info LogFactory has been closed.
+2023-05-04 13:33:00.7195 Info Message Template Auto Format enabled
+2023-05-04 13:33:00.7612 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 13:33:00.7776 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-04 13:49:53.1671 Info Message Template Auto Format enabled
+2023-05-04 13:49:53.2084 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 13:49:53.2238 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-04 14:20:44.2365 Info Message Template Auto Format enabled
+2023-05-04 14:20:44.2898 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 14:20:44.3099 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-04 15:43:33.5690 Info Message Template Auto Format enabled
+2023-05-04 15:43:33.6108 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 15:43:33.6271 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-08 22:07:44.2417 Info Message Template Auto Format enabled
+2023-05-08 22:07:44.5979 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 22:07:44.6229 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-08 22:14:29.3886 Info Message Template Auto Format enabled
+2023-05-08 22:14:29.4310 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 22:14:29.4486 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 10:47:37.3310 Info Message Template Auto Format enabled
+2023-05-09 10:47:37.5643 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 10:47:37.5931 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 11:13:34.9875 Info Message Template Auto Format enabled
+2023-05-09 11:13:35.0333 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 11:13:35.0497 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 11:16:47.0055 Info Message Template Auto Format enabled
+2023-05-09 11:16:47.0955 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 11:16:47.1213 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 11:21:12.0177 Info Message Template Auto Format enabled
+2023-05-09 11:21:12.0555 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 11:21:12.0732 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 11:22:52.9320 Info Message Template Auto Format enabled
+2023-05-09 11:22:53.0079 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 11:22:53.0337 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 11:23:05.1542 Info Message Template Auto Format enabled
+2023-05-09 11:23:05.2303 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 11:23:05.2508 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 11:24:02.8473 Info Message Template Auto Format enabled
+2023-05-09 11:24:02.9278 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 11:24:02.9485 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 11:28:03.7359 Info Message Template Auto Format enabled
+2023-05-09 11:28:03.8104 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 11:28:03.8424 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 11:30:46.7612 Info Message Template Auto Format enabled
+2023-05-09 11:30:46.8470 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 11:30:46.8758 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 11:31:17.5832 Info Message Template Auto Format enabled
+2023-05-09 11:31:17.6585 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 11:31:17.6798 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 11:32:06.1229 Info Message Template Auto Format enabled
+2023-05-09 11:32:06.1623 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 11:32:06.1773 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 11:41:10.7431 Info Message Template Auto Format enabled
+2023-05-09 11:41:10.7935 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 11:41:10.8115 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 11:41:32.0741 Info Message Template Auto Format enabled
+2023-05-09 11:41:32.1125 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 11:41:32.1125 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 11:41:49.5749 Info AppDomain Shutting down. LogFactory closing...
+2023-05-09 11:41:49.5862 Info LogFactory has been closed.
+2023-05-09 11:53:10.2159 Info Message Template Auto Format enabled
+2023-05-09 11:53:10.2633 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 11:53:10.2805 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 11:55:46.1546 Info Message Template Auto Format enabled
+2023-05-09 11:55:46.2067 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 11:55:46.2259 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 16:40:17.1547 Info Message Template Auto Format enabled
+2023-05-09 16:40:17.2188 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 16:40:17.2366 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-09 16:42:58.6920 Info AppDomain Shutting down. LogFactory closing...
+2023-05-09 16:42:58.7011 Info LogFactory has been closed.
+2023-05-10 17:08:38.4855 Info Message Template Auto Format enabled
+2023-05-10 17:08:38.5350 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:08:38.5551 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 17:13:18.9556 Info Message Template Auto Format enabled
+2023-05-10 17:13:19.0020 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:13:19.0186 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 17:13:44.1875 Info AppDomain Shutting down. LogFactory closing...
+2023-05-10 17:14:54.6633 Info Message Template Auto Format enabled
+2023-05-10 17:14:54.7091 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:14:54.7269 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 17:14:55.8704 Info Message Template Auto Format enabled
+2023-05-10 17:14:55.9176 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:14:55.9394 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 17:15:05.2527 Info AppDomain Shutting down. LogFactory closing...
+2023-05-10 17:15:05.2615 Info LogFactory has been closed.
+2023-05-10 17:15:08.1411 Info Message Template Auto Format enabled
+2023-05-10 17:15:08.1876 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:15:08.2043 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 17:16:19.7967 Info Message Template Auto Format enabled
+2023-05-10 17:16:19.8379 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:16:19.8550 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 17:16:34.1114 Info Message Template Auto Format enabled
+2023-05-10 17:16:34.1528 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:16:34.1689 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 17:16:35.1417 Info Message Template Auto Format enabled
+2023-05-10 17:16:35.1945 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:16:35.2163 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 17:16:43.4897 Info AppDomain Shutting down. LogFactory closing...
+2023-05-10 17:16:43.4897 Info LogFactory has been closed.
+2023-05-10 17:16:47.3979 Info Message Template Auto Format enabled
+2023-05-10 17:16:47.4410 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:16:47.4586 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 17:34:54.8903 Info AppDomain Shutting down. LogFactory closing...
+2023-05-10 17:34:54.9020 Info LogFactory has been closed.
+2023-05-10 17:34:57.3148 Info Message Template Auto Format enabled
+2023-05-10 17:34:57.3582 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:34:57.3758 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 17:47:16.4119 Info AppDomain Shutting down. LogFactory closing...
+2023-05-10 17:47:16.4119 Info LogFactory has been closed.
+2023-05-10 17:47:20.7417 Info Message Template Auto Format enabled
+2023-05-10 17:47:20.7836 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:47:20.8001 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 17:50:16.1054 Info Message Template Auto Format enabled
+2023-05-10 17:50:16.1648 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:50:16.1918 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 17:50:50.9397 Info Message Template Auto Format enabled
+2023-05-10 17:50:50.9810 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:50:50.9975 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 17:58:04.3589 Info Message Template Auto Format enabled
+2023-05-10 17:58:04.4019 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:58:04.4175 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 17:58:05.3555 Info Message Template Auto Format enabled
+2023-05-10 17:58:05.4002 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 17:58:05.4207 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 18:02:53.5935 Info AppDomain Shutting down. LogFactory closing...
+2023-05-10 18:02:53.6050 Info LogFactory has been closed.
+2023-05-10 18:03:11.0416 Info Message Template Auto Format enabled
+2023-05-10 18:03:11.0861 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 18:03:11.1021 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 18:04:48.8979 Info Message Template Auto Format enabled
+2023-05-10 18:04:48.9433 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 18:04:48.9605 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 18:04:52.3693 Info AppDomain Shutting down. LogFactory closing...
+2023-05-10 18:04:52.3693 Info LogFactory has been closed.
+2023-05-10 18:30:13.5721 Info Message Template Auto Format enabled
+2023-05-10 18:30:13.6180 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 18:30:13.6377 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 18:31:41.5559 Info Message Template Auto Format enabled
+2023-05-10 18:31:41.5987 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 18:31:41.6178 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 18:31:45.5103 Info Message Template Auto Format enabled
+2023-05-10 18:31:45.5501 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 18:31:45.5666 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 18:31:54.3503 Info AppDomain Shutting down. LogFactory closing...
+2023-05-10 18:31:54.3662 Info LogFactory has been closed.
+2023-05-10 18:34:03.4146 Info Message Template Auto Format enabled
+2023-05-10 18:34:03.4670 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 18:34:03.4866 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 18:43:56.9580 Info Message Template Auto Format enabled
+2023-05-10 18:43:57.0154 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 18:43:57.0370 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 19:31:41.4651 Info Message Template Auto Format enabled
+2023-05-10 19:31:41.5357 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 19:31:41.5550 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 19:32:07.7108 Info Message Template Auto Format enabled
+2023-05-10 19:32:07.7960 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 19:32:07.8199 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 19:34:00.2318 Info Message Template Auto Format enabled
+2023-05-10 19:34:00.3224 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 19:34:00.3539 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 19:34:48.4670 Info AppDomain Shutting down. LogFactory closing...
+2023-05-10 19:34:48.4878 Info LogFactory has been closed.
+2023-05-10 19:38:22.3242 Info Message Template Auto Format enabled
+2023-05-10 19:38:22.4993 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 19:38:22.5316 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 19:43:00.3847 Info Message Template Auto Format enabled
+2023-05-10 19:43:00.4243 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 19:43:00.4411 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 19:46:44.6974 Info Message Template Auto Format enabled
+2023-05-10 19:46:44.7375 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 19:46:44.7544 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-10 19:50:24.9925 Info Message Template Auto Format enabled
+2023-05-10 19:50:25.0603 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 19:50:25.0872 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 15:08:50.3766 Info Message Template Auto Format enabled
+2023-05-11 15:08:50.4457 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 15:08:50.4652 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 15:10:56.3079 Info Message Template Auto Format enabled
+2023-05-11 15:10:56.3514 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 15:10:56.3746 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 15:11:13.0270 Info AppDomain Shutting down. LogFactory closing...
+2023-05-11 15:11:13.0365 Info LogFactory has been closed.
+2023-05-11 15:11:15.9856 Info Message Template Auto Format enabled
+2023-05-11 15:11:16.0310 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 15:11:16.0479 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 15:46:40.8188 Info Message Template Auto Format enabled
+2023-05-11 15:46:40.8593 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 15:46:40.8756 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 16:01:09.0745 Info Message Template Auto Format enabled
+2023-05-11 16:01:09.1163 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 16:01:09.1345 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 16:15:23.4679 Info Message Template Auto Format enabled
+2023-05-11 16:15:23.5279 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 16:15:23.5582 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 16:16:32.2902 Info Message Template Auto Format enabled
+2023-05-11 16:16:32.3329 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 16:16:32.3487 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 16:16:41.9699 Info Message Template Auto Format enabled
+2023-05-11 16:16:42.0297 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 16:16:42.0506 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 16:25:30.2131 Info Message Template Auto Format enabled
+2023-05-11 16:25:30.2592 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 16:25:30.2782 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 16:25:55.9850 Info AppDomain Shutting down. LogFactory closing...
+2023-05-11 16:25:55.9967 Info LogFactory has been closed.
+2023-05-11 16:27:46.3536 Info Message Template Auto Format enabled
+2023-05-11 16:27:46.3979 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 16:27:46.4168 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 16:33:12.6126 Info Message Template Auto Format enabled
+2023-05-11 16:33:12.6599 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 16:33:12.6821 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 16:33:43.5028 Info Message Template Auto Format enabled
+2023-05-11 16:33:43.5407 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 16:33:43.5564 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 16:49:22.2883 Info Message Template Auto Format enabled
+2023-05-11 16:49:22.3318 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 16:49:22.3495 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 16:55:10.2377 Info AppDomain Shutting down. LogFactory closing...
+2023-05-11 16:55:10.2377 Info LogFactory has been closed.
+2023-05-11 16:59:17.6034 Info Message Template Auto Format enabled
+2023-05-11 16:59:17.6482 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 16:59:17.6662 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-11 17:00:26.4405 Info AppDomain Shutting down. LogFactory closing...
+2023-05-11 17:00:26.4536 Info LogFactory has been closed.
+2023-05-11 17:02:22.9224 Info Message Template Auto Format enabled
+2023-05-11 17:02:22.9680 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 17:02:22.9852 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-16 16:00:18.6931 Info Message Template Auto Format enabled
+2023-05-16 16:00:18.7444 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 16:00:18.7596 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-16 16:00:19.7228 Info AppDomain Shutting down. LogFactory closing...
+2023-05-16 16:00:19.7228 Info LogFactory has been closed.
+2023-05-16 16:01:17.8005 Info Message Template Auto Format enabled
+2023-05-16 16:01:17.8440 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 16:01:17.8607 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-16 16:01:18.9259 Info AppDomain Shutting down. LogFactory closing...
+2023-05-16 16:01:18.9259 Info LogFactory has been closed.
+2023-05-16 20:36:24.5731 Info Message Template Auto Format enabled
+2023-05-16 20:36:24.6273 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 20:36:24.6423 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-16 20:36:25.7023 Info AppDomain Shutting down. LogFactory closing...
+2023-05-16 20:36:25.7023 Info LogFactory has been closed.
+2023-05-16 20:37:04.4560 Info Message Template Auto Format enabled
+2023-05-16 20:37:04.4926 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 20:37:04.5088 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-16 20:37:05.5916 Info AppDomain Shutting down. LogFactory closing...
+2023-05-16 20:37:05.5996 Info LogFactory has been closed.
+2023-05-16 22:04:16.8197 Info Message Template Auto Format enabled
+2023-05-16 22:04:16.9635 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 22:04:17.0010 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-16 22:04:42.5399 Info Message Template Auto Format enabled
+2023-05-16 22:04:42.5850 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 22:04:42.6027 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-16 22:04:57.8866 Info AppDomain Shutting down. LogFactory closing...
+2023-05-16 22:04:57.9025 Info LogFactory has been closed.
+2023-05-16 22:05:00.4532 Info Message Template Auto Format enabled
+2023-05-16 22:05:00.5014 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 22:05:00.5188 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-16 22:05:29.3935 Info Message Template Auto Format enabled
+2023-05-16 22:05:29.4331 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 22:05:29.4499 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-16 22:05:33.6301 Info AppDomain Shutting down. LogFactory closing...
+2023-05-16 22:05:33.6455 Info LogFactory has been closed.
+2023-05-16 22:05:55.9607 Info Message Template Auto Format enabled
+2023-05-16 22:05:56.0074 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 22:05:56.0258 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-16 22:16:15.7763 Info Message Template Auto Format enabled
+2023-05-16 22:16:15.8627 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 22:16:15.8964 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-16 22:16:28.1178 Info AppDomain Shutting down. LogFactory closing...
+2023-05-16 22:16:28.1371 Info LogFactory has been closed.
+2023-05-16 22:16:33.8670 Info Message Template Auto Format enabled
+2023-05-16 22:16:33.9438 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 22:16:33.9668 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-16 22:18:04.4624 Info Message Template Auto Format enabled
+2023-05-16 22:18:04.5490 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 22:18:04.5783 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-17 22:43:30.6091 Info Message Template Auto Format enabled
+2023-05-17 22:43:30.6769 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 22:43:30.6979 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-17 23:27:56.8634 Info Message Template Auto Format enabled
+2023-05-17 23:27:56.9027 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 23:27:56.9243 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 13:33:55.7188 Info Message Template Auto Format enabled
+2023-05-18 13:33:55.7809 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 13:33:55.8023 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 13:38:28.9439 Info Message Template Auto Format enabled
+2023-05-18 13:38:28.9856 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 13:38:29.0020 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 13:42:42.6369 Info Message Template Auto Format enabled
+2023-05-18 13:42:42.6811 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 13:42:42.6995 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 13:43:32.2743 Info AppDomain Shutting down. LogFactory closing...
+2023-05-18 13:43:32.2873 Info LogFactory has been closed.
+2023-05-18 13:43:34.7740 Info Message Template Auto Format enabled
+2023-05-18 13:43:34.8180 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 13:43:34.8359 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 13:50:50.4704 Info Message Template Auto Format enabled
+2023-05-18 13:50:50.5211 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 13:50:50.5412 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 15:28:17.6177 Info AppDomain Shutting down. LogFactory closing...
+2023-05-18 15:28:17.6324 Info LogFactory has been closed.
+2023-05-18 16:35:25.5327 Info Message Template Auto Format enabled
+2023-05-18 16:35:25.5734 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 16:35:25.5890 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 16:35:26.4989 Info AppDomain Shutting down. LogFactory closing...
+2023-05-18 16:35:26.5104 Info LogFactory has been closed.
+2023-05-18 16:35:48.2179 Info Message Template Auto Format enabled
+2023-05-18 16:35:48.2604 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 16:35:48.2778 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 16:35:49.2989 Info AppDomain Shutting down. LogFactory closing...
+2023-05-18 16:35:49.2989 Info LogFactory has been closed.
+2023-05-18 17:30:39.8313 Info Message Template Auto Format enabled
+2023-05-18 17:30:39.8758 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 17:30:39.8925 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 17:42:55.6851 Info Message Template Auto Format enabled
+2023-05-18 17:42:55.7912 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 17:42:55.8152 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 17:47:53.1030 Info Message Template Auto Format enabled
+2023-05-18 17:47:53.1448 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 17:47:53.1623 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 19:03:59.1849 Info Message Template Auto Format enabled
+2023-05-18 19:03:59.2378 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 19:03:59.2551 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 19:09:46.7151 Info Message Template Auto Format enabled
+2023-05-18 19:09:46.7554 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 19:09:46.7716 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 19:10:30.8300 Info Message Template Auto Format enabled
+2023-05-18 19:10:30.8761 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 19:10:30.8969 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 19:12:41.6644 Info Message Template Auto Format enabled
+2023-05-18 19:12:41.7093 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 19:12:41.7303 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 19:17:20.2908 Info Message Template Auto Format enabled
+2023-05-18 19:17:20.3306 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 19:17:20.3468 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 19:20:50.9636 Info Message Template Auto Format enabled
+2023-05-18 19:20:51.0244 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 19:20:51.0513 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-18 19:33:36.7829 Info Message Template Auto Format enabled
+2023-05-18 19:33:36.8261 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-18 19:33:36.8580 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-19 19:54:50.1324 Info Message Template Auto Format enabled
+2023-05-19 19:54:50.1874 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-19 19:54:50.2053 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-19 19:54:51.3530 Info AppDomain Shutting down. LogFactory closing...
+2023-05-19 19:54:51.3624 Info LogFactory has been closed.
+2023-05-19 19:55:38.5545 Info Message Template Auto Format enabled
+2023-05-19 19:55:38.5930 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-19 19:55:38.6088 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-19 19:55:39.7156 Info AppDomain Shutting down. LogFactory closing...
+2023-05-19 19:55:39.7250 Info LogFactory has been closed.
+2023-05-19 20:56:14.9055 Info Message Template Auto Format enabled
+2023-05-19 20:56:14.9519 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-19 20:56:14.9681 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-19 20:58:39.7944 Info Message Template Auto Format enabled
+2023-05-19 20:58:39.8324 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-19 20:58:39.8475 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 19:17:34.2099 Info Message Template Auto Format enabled
+2023-05-20 19:17:34.2610 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 19:17:34.2773 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 19:17:35.4108 Info AppDomain Shutting down. LogFactory closing...
+2023-05-20 19:17:35.4184 Info LogFactory has been closed.
+2023-05-20 19:17:45.5596 Info Message Template Auto Format enabled
+2023-05-20 19:17:45.5996 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 19:17:45.6174 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 19:17:46.8113 Info AppDomain Shutting down. LogFactory closing...
+2023-05-20 19:17:46.8207 Info LogFactory has been closed.
+2023-05-20 19:18:29.6387 Info Message Template Auto Format enabled
+2023-05-20 19:18:29.6742 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 19:18:29.6890 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 19:18:30.3466 Info AppDomain Shutting down. LogFactory closing...
+2023-05-20 19:18:30.3466 Info LogFactory has been closed.
+2023-05-20 19:18:33.2457 Info Message Template Auto Format enabled
+2023-05-20 19:18:33.2821 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 19:18:33.2966 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 19:18:34.2364 Info AppDomain Shutting down. LogFactory closing...
+2023-05-20 19:18:34.2471 Info LogFactory has been closed.
+2023-05-20 19:19:10.9729 Info Message Template Auto Format enabled
+2023-05-20 19:19:11.0074 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 19:19:11.0218 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 19:19:11.8964 Info AppDomain Shutting down. LogFactory closing...
+2023-05-20 19:19:11.9037 Info LogFactory has been closed.
+2023-05-20 19:19:17.7208 Info Message Template Auto Format enabled
+2023-05-20 19:19:17.7604 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 19:19:17.7604 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 19:19:19.2576 Info AppDomain Shutting down. LogFactory closing...
+2023-05-20 19:19:19.2672 Info LogFactory has been closed.
+2023-05-20 19:33:17.6326 Info Message Template Auto Format enabled
+2023-05-20 19:33:17.6949 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 19:33:17.7128 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 19:37:40.4198 Info Message Template Auto Format enabled
+2023-05-20 19:37:40.4633 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 19:37:40.4798 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 19:39:06.2203 Info Message Template Auto Format enabled
+2023-05-20 19:39:06.2625 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 19:39:06.2794 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 19:39:26.5695 Info Message Template Auto Format enabled
+2023-05-20 19:39:26.6130 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 19:39:26.6305 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 19:40:09.8920 Info Message Template Auto Format enabled
+2023-05-20 19:40:09.9427 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 19:40:09.9620 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 19:43:39.3557 Info Message Template Auto Format enabled
+2023-05-20 19:43:39.4010 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 19:43:39.4186 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 19:59:40.2374 Info Message Template Auto Format enabled
+2023-05-20 19:59:40.3399 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 19:59:40.3638 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 20:03:41.6841 Info Message Template Auto Format enabled
+2023-05-20 20:03:41.7646 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 20:03:41.7872 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 20:08:25.6090 Info Message Template Auto Format enabled
+2023-05-20 20:08:25.7092 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 20:08:25.7352 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 20:14:12.0478 Info Message Template Auto Format enabled
+2023-05-20 20:14:12.0955 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 20:14:12.1149 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 20:24:24.6272 Info Message Template Auto Format enabled
+2023-05-20 20:24:24.6662 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 20:24:24.6662 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 20:31:50.0492 Info Message Template Auto Format enabled
+2023-05-20 20:31:50.0928 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 20:31:50.1136 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 20:39:38.1305 Info Message Template Auto Format enabled
+2023-05-20 20:39:38.1750 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 20:39:38.1922 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 20:41:07.5177 Info AppDomain Shutting down. LogFactory closing...
+2023-05-20 20:41:07.5303 Info LogFactory has been closed.
+2023-05-20 20:45:00.9765 Info Message Template Auto Format enabled
+2023-05-20 20:45:01.0525 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 20:45:01.0763 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 20:57:27.7975 Info Message Template Auto Format enabled
+2023-05-20 20:57:27.8470 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 20:57:27.8671 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 21:00:47.0375 Info Message Template Auto Format enabled
+2023-05-20 21:00:47.0825 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 21:00:47.0996 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 21:01:57.2735 Info Message Template Auto Format enabled
+2023-05-20 21:01:57.3146 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 21:01:57.3306 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 21:11:12.8123 Info Message Template Auto Format enabled
+2023-05-20 21:11:12.8597 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-20 21:11:12.8781 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\bsStoreApp\WebApi\nlog.config
+2023-05-20 21:16:52.7953 Info AppDomain Shutting down. LogFactory closing...
+2023-05-20 21:16:52.8033 Info LogFactory has been closed.
+2023-05-27 13:44:54.9982 Info Message Template Auto Format enabled
+2023-05-27 13:44:55.0706 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-27 13:44:55.1000 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\WebApiTraining\WebApi\nlog.config
+2023-05-27 13:52:36.1795 Info AppDomain Shutting down. LogFactory closing...
+2023-05-27 13:52:36.2054 Info LogFactory has been closed.
+2023-05-27 13:52:38.8178 Info Message Template Auto Format enabled
+2023-05-27 13:52:38.8659 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-27 13:52:38.8844 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\WebApiTraining\WebApi\nlog.config
+2023-05-27 13:54:39.3488 Info AppDomain Shutting down. LogFactory closing...
+2023-05-27 13:54:39.3634 Info LogFactory has been closed.
+2023-05-27 13:54:43.2043 Info Message Template Auto Format enabled
+2023-05-27 13:54:43.2579 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-27 13:54:43.2784 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\WebApiTraining\WebApi\nlog.config
+2023-06-01 00:06:38.2208 Info Message Template Auto Format enabled
+2023-06-01 00:06:38.3397 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-06-01 00:06:38.3748 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\WebApiTraining\WebApi\nlog.config
+2023-06-01 00:06:47.4507 Info Message Template Auto Format enabled
+2023-06-01 00:06:47.4913 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-06-01 00:06:47.5078 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\WebApiTraining\WebApi\nlog.config
+2023-06-01 00:12:01.0650 Info AppDomain Shutting down. LogFactory closing...
+2023-06-01 00:12:01.0775 Info LogFactory has been closed.
+2023-06-01 00:15:42.9707 Info Message Template Auto Format enabled
+2023-06-01 00:15:43.0094 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-06-01 00:15:43.0247 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\WebApiTraining\WebApi\nlog.config
+2023-06-01 00:25:43.2318 Info Message Template Auto Format enabled
+2023-06-01 00:25:43.2716 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-06-01 00:25:43.2889 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\WebApiTraining\WebApi\nlog.config
+2023-06-01 00:27:01.6626 Info Message Template Auto Format enabled
+2023-06-01 00:27:01.7014 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-06-01 00:27:01.7169 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atesi\Desktop\Web Api\WebApiTraining\WebApi\nlog.config
